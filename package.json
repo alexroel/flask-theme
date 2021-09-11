@@ -1,0 +1,30 @@
+{
+    "name": "flask-theme",
+    "displayName": "flask-theme",
+    "description": "Thema para flask",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.60.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "flask",
+                "uiTheme": "vs",
+                "path": "./themes/flask-color-theme.json"
+            }
+        ]
+    },
+    "icon":"icon/flask-logo.ico",
+    "author": {
+        "name": "Alex Roel"
+    },
+    "repository": {
+        "url": "https://github.com/alexroel/flask-theme",
+        "type": "git"
+    },
+    "publisher": "alex-roel"
+}
