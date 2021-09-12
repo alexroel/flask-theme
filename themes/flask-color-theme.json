@@ -169,12 +169,13 @@
 			}
 		},
 		{
-			"name": "Punctuation",
-			"scope": "punctuation",
+			"name": "Strings quoted",
+			"scope": "string.quoted",
 			"settings": {
-				"foreground": "#333333"
+				"foreground": "#448C27"
 			}
 		},
+		
 		{
 			"name": "HTML: Doctype Declaration",
 			"scope": [
